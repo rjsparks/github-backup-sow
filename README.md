@@ -3,7 +3,7 @@
 Several IETF working groups are using github to help progress their work.  The
 [GitHub Integration and Tooling](https://datatracker.ietf.org/group/git/about/)
 working group has developed a set of requirements for tooling to support that
-work. Among them is [providing a publicaly-accessible backup and
+work. Among them is [providing a publicly-accessible backup and
 archive](https://tools.ietf.org/html/draft-ietf-git-github-wg-configuration-06#section-3.2)
 of the information captured in each working group's github repositories. Note
 that this includes each repository's issues and pull requests in addition to

@@ -28,4 +28,4 @@ Respondents are expected to be familiar with
 
 We expect to run this utility hourly. The number of repositories to back up is expected to initially be around 50. The number will be bounded by the number of active Working or Research Group internet drafts at the time of backup. Currently, that bound has been around 850.
 
-We currently anticipate that a single set of credentials, belonging to an identity that has bee made an "owner" of each repository, will be used for the backup process.
+We currently anticipate that a single set of credentials, belonging to an identity that has been made an "owner" of each repository, will be used for the backup process.
